@@ -1,0 +1,12 @@
+youngmin;yoo;150
+chanhyuk;son;100
+gurutu;iam;510
+turogu;best;200
+something;good;210
+heroes;storm;320
+hello;world;100
+howabout;you;100
+iam;gurutu;100
+mokoko;mokoko;100
+123;234;181
+sfsfdf;sdfsf;100
